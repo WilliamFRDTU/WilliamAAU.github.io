@@ -1,2 +1,2 @@
 
-# Sound and Music Perception and Cognition Mini-Project for wronbe26
+# SMPC Mini-Project by wronbe26
